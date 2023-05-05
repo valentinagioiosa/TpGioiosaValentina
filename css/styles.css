@@ -1,0 +1,22 @@
+#navbar{
+    color: #353a40;
+    text-decoration-color: white;
+}
+
+div.carousel-inner div.carousel-item::before {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: #2828288c;
+    content: "";
+}
+
+#padding-texto-carousel{
+    padding-right: 100px;
+}
+
+footer{
+    background-image: linear-gradient(to right, #1c3643, #1c3d4e, #1d4459, #1d4c65, #1e5371);
+}
